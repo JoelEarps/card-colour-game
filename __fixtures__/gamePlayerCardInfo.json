@@ -1,0 +1,23 @@
+{
+  "Judah": {
+    "cards": [
+      { "Value": 9, "Colour": "Blue" },
+      { "Value": 5, "Colour": "Green" },
+      { "Value": 3, "Colour": "Green" }
+    ]
+  },
+  "Schuyler": {
+    "cards": [
+      { "Value": 10, "Colour": "Blue" },
+      { "Value": 5, "Colour": "Blue" },
+      { "Value": 4, "Colour": "Blue" }
+    ]
+  },
+  "Jerrold": {
+    "cards": [
+      { "Value": 4, "Colour": "Green" },
+      { "Value": 2, "Colour": "Blue" },
+      { "Value": 2, "Colour": "Red" }
+    ]
+  }
+}
