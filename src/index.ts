@@ -15,6 +15,7 @@ export const startGame = () => {
 };
 
 export const validateGameSettings = (noOfPlayers: number) => {
+  // This way max cards cannot exceed 30
   if (noOfPlayers > 10 || noOfPlayers < 2) {
     console.error("Invalid number of players - exiting game...");
     return false;
