@@ -17,3 +17,5 @@ describe("test application runs successfully", () => {
     expect(validateGameSettings(0)).toBe(false);
   });
 });
+
+// Mock generate players function to make sure we can test all rule set reliably

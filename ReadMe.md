@@ -14,3 +14,19 @@
 
 // What does a card look like
 // Value and a colour
+
+# How to Play
+
+`npm run start`
+
+This will build and start the app for you.
+
+# Software Flow
+
+TODO: Add Mermaid flowchart
+
+```mermaid
+
+```
+
+# Package choices
